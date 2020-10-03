@@ -101,7 +101,7 @@ With Accuracy scores in the range of 50-55%, the classification approach did not
 
 #### Approach 2: Regression
 
-Random Forest Regressor: RMSE: `0.1053` | R-squared: `80.06%`
+Random Forest Regressor: RMSE: `0.0993` | R-squared: `82.27%`
 
 ![RF_Regressor](Images/RF_Regressor.JPG)
 
